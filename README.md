@@ -19,8 +19,4 @@ Además, la aplicación calcula automáticamente el total gastado y muestra un m
 
 La aplicación muestra el total acumulado de gastos, el mes actual y una lista con todos los gastos registrados. También incluye un mensaje de retroalimentación para ayudar al usuario a entender mejor sus hábitos de consumo.
 
-Se utilizo: 
-- Flutter  
-- Dart  
-
 Este proyecto se desarrolló como un prototipo funcional para demostrar cómo una aplicación sencilla puede ayudar a las personas a llevar un mejor control de sus gastos diarios sin necesidad de utilizar herramientas complejas.
